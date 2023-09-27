@@ -8,9 +8,9 @@ package fantasy.football.setup;
  *
  * @author Ari
  */
-public class Stricker extends Player{
+public class Striker extends Player{
     
-    public Stricker(String fname, String lname, String country, int age, String position) {
+    public Striker(String fname, String lname, String country, int age, String position) {
         super(fname, lname, country, age, position);
     }
     
